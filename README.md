@@ -23,11 +23,11 @@ Utilizing a large dataset of tabular data [1], we explore text generation method
 
 ## Getting Started
 
-(Add instructions for setting up and running the project here.)
+
 
 ## Contributors
 
-(Add a list of contributors or maintainers here.)
+
 
 ## License
 
